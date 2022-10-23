@@ -1,1 +1,1 @@
-# telecom-attrition-prediction
+# telecom-customer-churn-prediction
